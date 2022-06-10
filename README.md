@@ -29,7 +29,8 @@ Este projeto consiste em um teste proposto pela Web Sicredi para a vaga de desen
 * Remoção de dragões;
 * Edição de informações de dragões;
 * Acesso à página de detalhes dos dragões;
-* Logout.
+* Logout;
+* Responsividade.
 
 # Tecnologias
 * JavaScript;
@@ -39,8 +40,15 @@ Este projeto consiste em um teste proposto pela Web Sicredi para a vaga de desen
 * Moment;
 * React-router-dom;
 
-# Link do surge
-https://elegant-collar.surge.sh/
+# Link ![Captura de tela de 2022-06-10 17-53-04](https://user-images.githubusercontent.com/90624608/173149280-3ab54b67-a520-413a-9715-3317abe378ed.png)
+do surge
+https://![pagina-cadastro](https://user-images.githubusercontent.com/90624608/173149676-5faa6bc4-a522-44b0-ad9d-291cf24c992a.png)
+![lista-dragoes](https://user-images.githubusercontent.com/90624608/173150030-e662e35a-8948-4ddd-9e7d-ad16fa41825c.png)
+
+![pagina_detalhes](https://user-images.githubusercontent.com/90624608/173150375-5ae4a718-ac0d-4d15-b8af-10817ff37b46.png)
+![pagina-atualizar-dragao](https://user-images.githubusercontent.com/90624608/173150503-84d9ade2-324f-4572-b71b-0a451684d44d.png)
+![cadastrar-novo-dragao](https://user-images.githubusercontent.com/90624608/173150616-4d0f27f9-2d58-440b-a186-0ab37018a6b9.png)
+![pagina-erro](https://user-images.githubusercontent.com/90624608/173150798-0791e685-ed8c-4692-ae68-ac5e34df39a0.png)
 
 
 # Rodando a aplicação
